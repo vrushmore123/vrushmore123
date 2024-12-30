@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vrushmore123&margin-w=15&margin-h=15&column=7" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vrushmore123&margin-w=15&margin-h=15&column=7&theme=radical" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/vrushali-more-8b4723243/" target="_blank">
+  <a href="https://www.linkedin.com/in/vrushali-more" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://github.com/vrushmore123" target="_blank">
