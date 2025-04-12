@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrushali More</h1>
-<h3 align="center">A Passionate Full Stack MERN Developer | C++ | Python Enthusiast from India</h3>
+<h3 align="center">A Passionate Full Stack MERN Developer | Freelancer | FullStack developer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=vrushmore123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
