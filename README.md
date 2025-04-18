@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrushali More</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | Freelancer | AI/ML Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Full Stack MERN Developer | NEXT.js | AI/ML Explorer | Freelancer | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vrushmore123&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -8,15 +8,15 @@
 
 ---
 
-### 💫 About Me
+### 🧠 About Me
 
-- 🔭 I’m currently working on **AI-powered Web Applications**
-- 🌱 Learning **Advanced AI/ML**, **Cloud Computing with AWS**, and **System Design**
-- 🧠 Passionate about solving real-world problems using tech
-- 🏆 Mentored multiple hackathon teams & contributed to open source
-- 💬 Ask me about **React.js, Node.js, MongoDB, Python, TensorFlow**
-- 📫 How to reach me: **vrushalimore123@example.com**
-- ⚡ Fun fact: I turn ☕ into scalable web apps
+- 💻 Currently building **AI-Powered Web Platforms** with **Next.js** + **TensorFlow**
+- 🌱 Growing in **Cloud Computing (AWS)** | **LLMs** | **System Design**
+- 🛠 Love transforming ideas into scalable, production-ready apps
+- 👩‍🏫 Mentored devs & teams in hackathons and open-source projects
+- 📚 Constant learner & community enthusiast
+- 💬 Ask me about **MERN Stack, AI/ML, Web Dev, and Freelancing**
+- ✨ Fun fact: My favorite debugger is ☕ coffee + console logs
 
 ---
 
@@ -24,101 +24,109 @@
 
 <p>
   <a href="https://www.linkedin.com/in/vrushali-more" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/vrushmore123" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="mailto:vrushalimore123@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Skills & Technologies
+### ⚙️ Tech Toolbox
 
-#### 💻 Programming Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 
-#### 🌐 Frontend  
-![React.js](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
-#### 🛠 Backend & Tools  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+#### 🛠 Backend & DB
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 
-#### 🤖 AI/ML Stack  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)
+#### 🤖 AI/ML Stack
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+
+#### 🧰 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Projects I'm Proud Of
+
+- 🧵 **AI-Powered Fashion Material Recognition**  
+  Built with TensorFlow, React, Node.js — detects defects in fabrics using AI.
+
+- 🧑‍💼 **Hackathon Management Platform**  
+  Real-time dashboard for event tracking, registration, and analytics.
+
+- 🤖 **AI Interview Bot (Coming Soon)**  
+  Personalized mock interview experience using NLP & decision trees.
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrushmore123&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrushmore123&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vrushmore123&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vrushmore123&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrushmore123&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushmore123&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 Achievements
 
-- 🔬 **AI-Powered Fashion Material Recognition**  
-  Built using TensorFlow, MERN stack, and MongoDB with integrated fabric defect detection.
-
-- 🏁 **Hackathon Management System**  
-  Real-time platform to manage hackathons, participants, analytics, and judging.
-
-- 🧠 **AI Interview Bot** *(Coming Soon)*  
-  Personalized interview practice platform using NLP and decision trees.
+- 🥇 Multiple-time hackathon winner with record-breaking participation
+- 🌟 Active open-source contributor
+- 👩‍🏫 Mentored 10+ junior devs across projects & hackathons
+- 🧠 Built systems using LLMs, AI/ML models, and scalable microservices
 
 ---
 
-### 🏆 Achievements & Open Source
+### 📚 Currently Upskilling In
 
-- 🥇 Won multiple hackathons with record-breaking participation
-- 🌟 Regular contributor to open source repositories
-- 💡 Mentored 10+ junior developers and helped deploy real-world projects
-
----
-
-### 📚 Currently Learning
-
-- 🔹 Advanced ML Algorithms & LLMs  
-- 🔹 AWS & Scalable Cloud Architecture  
-- 🔹 System Design Patterns  
+- 💡 Advanced LLMs & AI Agents  
+- ☁️ AWS Cloud & DevOps Tools  
+- 📐 System Design & Architecture
 
 ---
 
-### ✍️ Latest Blogs & Articles
+### ✍️ Blog & Content Creation
 
-<!-- Replace the below list with your actual blog post links if any -->
-- *Coming soon… personal blog on Medium or Hashnode.*
-
----
-
-### 💬 Let’s Collaborate!
-
-If you're looking to:
-- Build something cool 🚀  
-- Collaborate on open source 🤝  
-- Need a freelancer 💼  
-
-> Just ping me! I'm open to exciting opportunities.
+🚧 *Coming soon on Medium & Dev.to!*  
+📢 I love writing about AI, Web Dev Trends & Developer Mindsets
 
 ---
 
-### 🔄 Support & Feedback
+### 🤝 Let’s Collaborate
 
-If you like my work, consider giving a ⭐ to the repos, or [buy me a coffee](https://www.buymeacoffee.com/) ☕
+Looking to:
+- Launch a next-gen product 🚀  
+- Build an AI startup MVP 🤖  
+- Get a freelance MERN dev onboard 💼  
+
+Let’s talk. I’m open to collaborations & gigs worldwide.
 
 ---
 
+### ☕ Support & Feedback
+
+If you like my work, drop a ⭐ or [buy me a coffee](https://buymeacoffee.com/) – every bit fuels more innovation! 💙
+
+---
